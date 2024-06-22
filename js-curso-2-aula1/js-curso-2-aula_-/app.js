@@ -2,7 +2,7 @@ let listaDeNumerosSorteados = []
 let numeroLimite = 15;
 let numeroSecreto = gerarNumeroAleatorio()
 let tentativas = 1
-
+//pink pussy
 function exibirTextoNaTela(tag, texto){
 let campo = document.querySelector(tag)
 campo.innerHTML = texto
